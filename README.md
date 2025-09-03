@@ -74,3 +74,4 @@ deactivate
 /home/anohana/Documents/MQBOT/.venv/bin/python -m python123.cli --csv /path/to/data.csv
 ```
 
+Done.
